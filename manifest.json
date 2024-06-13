@@ -1,7 +1,7 @@
 {
 "name": "RAISE - App mobilità",
 "short_name": "RAISE",
-"start_url": "/",
+"start_url": "/raise-app/",
 "display": "standalone",
 "description": "A description for your application",
 "lang": "it",
